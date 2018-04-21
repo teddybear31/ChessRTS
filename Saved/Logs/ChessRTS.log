@@ -951,3 +951,170 @@ LogInit: Object subsystem initialized
 [2018.04.21-10.06.10:364][601]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0,801
 [2018.04.21-10.06.10:364][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.04.21-10.20.37:549][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-10.33.38:477][698]LogActorFactory: Actor Factory created Cube
+[2018.04.21-10.33.40:441][761]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.40:544][763]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.40:568][764]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.40:991][770]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:016][771]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:018][771]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:055][771]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:442][777]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:467][778]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:469][778]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.41:504][778]PIE: Warning: Mobility of /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Cube : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2018.04.21-10.33.43:422][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-10.33.43:492][836]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.21-10.33.43:532][836]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.21-10.33.56:249][227]LogActorFactory: Actor Factory created Cube
+[2018.04.21-10.33.57:738][266]LogActorFactory: Actor Factory created Cube
+[2018.04.21-10.34.11:761][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-10.34.25:959][972]Cmd: EDIT COPY
+[2018.04.21-10.34.26:144][977]Cmd: EDIT PASTE
+[2018.04.21-10.34.38:268][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.21-10.34.41:488][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.04.21-10.34.44:995][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-10.35.04:265][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.21-10.35.09:004][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.21-10.35.09:812][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.04.21-10.35.44:442][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.21-10.37.06:800][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-10.37.59:811][612]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.00:183][612]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.00:207][612]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.21-10.38.00:207][612]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.21-10.38.00:207][612]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.21-10.38.00:221][612]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.01:575][658]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.21-10.38.01:668][662]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.21-10.38.01:796][667]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.21-10.38.02:019][675]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.21-10.38.02:072][677]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.21-10.38.02:224][683]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.21-10.38.02:387][689]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.21-10.38.02:871][706]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.21-10.38.03:046][713]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.21-10.38.03:202][719]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.21-10.38.03:487][729]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.21-10.38.03:700][736]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.21-10.38.03:997][746]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.21-10.38.04:122][750]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.21-10.38.04:295][755]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.21-10.38.04:609][765]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.21-10.38.04:676][767]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.21-10.38.04:825][773]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.21-10.38.04:825][773]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2018.04.21-10.38.04:826][773]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.21-10.38.04:826][773]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.21-10.38.04:826][773]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.21-10.38.13:256][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.13:271][ 53]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.21-10.38.13:271][ 53]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.21-10.38.13:286][ 53]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.13:297][ 53]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.21-10.38.13:354][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.13:385][ 55]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.13:407][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.13:438][ 55]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.13:460][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.13:491][ 55]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.13:520][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.13:551][ 55]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.13:575][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.13:603][ 55]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.21-10.38.13:606][ 55]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.13:726][ 61]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.21-10.38.13:803][ 64]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.21-10.38.14:190][ 87]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.21-10.38.14:273][ 92]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.21-10.38.14:380][ 98]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.21-10.38.14:438][100]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.14:470][100]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.14:493][100]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.14:520][100]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.14:555][100]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.04.21-10.38.14:586][100]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.14:668][103]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.21-10.38.14:737][105]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.21-10.38.14:887][109]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.21-10.38.15:202][119]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.21-10.38.15:270][121]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.21-10.38.15:360][124]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.21-10.38.15:662][133]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.21-10.38.15:703][134]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.21-10.38.15:727][135]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.21-10.38.16:079][146]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.21-10.38.16:095][146]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.21-10.38.16:129][147]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.21-10.38.16:774][168]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.21-10.38.16:865][171]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.21-10.38.16:956][174]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.21-10.38.17:321][186]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.21-10.38.17:593][194]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.21-10.38.17:814][201]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.21-10.38.18:030][208]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.21-10.38.18:125][211]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.21-10.38.18:679][228]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.21-10.38.18:679][228]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2018.04.21-10.38.18:679][228]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.21-10.38.18:679][228]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.21-10.38.18:679][228]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.21-10.38.18:818][234]LogSlate: Window 'Color Picker' being destroyed
+[2018.04.21-10.38.44:213][963]LogMaterialEditor: Applying material BasicShapeMaterial
+[2018.04.21-10.38.44:843][963]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.44:876][963]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.21-10.38.44:876][963]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.21-10.38.44:876][963]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.21-10.38.44:891][963]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.44:957][963]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.45:044][963]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.04.21-10.38.47:798][963]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.04.21-10.38.47:799][963]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.04.21-10.38.47:799][963]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.04.21-10.38.47:799][963]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.04.21-10.38.47:799][963]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.04.21-10.38.47:799][963]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.04.21-10.38.47:801][963]TextureStreamingBuild: Display: Compiling optional shaders took 2.766 seconds.
+[2018.04.21-10.38.50:333][963]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.04.21-10.38.50:333][963]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.21-10.38.52:515][ 31]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.21-10.38.52:735][ 36]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.21-10.38.54:889][ 87]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.21-10.38.58:602][184]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.04.21-10.38.58:602][184]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2018.04.21-10.38.58:602][184]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.04.21-10.38.58:602][184]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.04.21-10.38.58:602][184]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.21-10.43.30:187][411]LogSavePackage: Save=138.11ms
+[2018.04.21-10.43.30:187][411]LogSavePackage: Moving '../../../../UnrealProjects/ChessRTS/Saved/TopDownExampleMap_Auto2896E95BB4685543DFAF78FA8E853468D.tmp' to '../../../../UnrealProjects/ChessRTS/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.04.21-10.43.30:191][411]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/ChessRTS/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.04.21-10.43.30:194][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.183
+[2018.04.21-10.43.30:194][411]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.183
+[2018.04.21-10.43.30:198][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2018.04.21-10.43.30:252][411]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2018.04.21-10.43.30:252][411]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2018.04.21-10.43.30:274][411]LogSavePackage: Save=17.65ms
+[2018.04.21-10.43.30:274][411]LogSavePackage: Moving '../../../../UnrealProjects/ChessRTS/Saved/BasicShapeMaterial_Auto29241DC434B9E6A0CB47366842E4476B5.tmp' to '../../../../UnrealProjects/ChessRTS/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto2.uasset'
+[2018.04.21-10.43.30:278][411]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/ChessRTS/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto2.uasset
+[2018.04.21-10.43.30:278][411]LogFileHelpers: Auto-saving content packages took 0.083
+[2018.04.21-11.08.01:902][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.21-11.08.53:271][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="../../../../UnrealProjects/ChessRTS/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.21-11.08.53:440][491]LogSavePackage: Save=132.55ms
+[2018.04.21-11.08.53:440][491]LogSavePackage: Moving '../../../../UnrealProjects/ChessRTS/Saved/TopDownExampleMap2BE256EF423FEF2D7DB829AC73A4B566.tmp' to '../../../../UnrealProjects/ChessRTS/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.04.21-11.08.53:446][491]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/ChessRTS/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.04.21-11.08.53:464][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../UnrealProjects/ChessRTS/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2018.04.21-11.08.53:620][491]LogSavePackage: Save=148.60ms
+[2018.04.21-11.08.53:620][491]LogSavePackage: Moving '../../../../UnrealProjects/ChessRTS/Saved/TopDownExampleMap_BuiltDataCE46A25E4E0F361EF11BE0ACA230A93B.tmp' to '../../../../UnrealProjects/ChessRTS/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.04.21-11.08.53:626][491]LogSavePackage: Display: Finished SavePackage ../../../../UnrealProjects/ChessRTS/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
